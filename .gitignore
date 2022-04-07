@@ -1,0 +1,7 @@
+build
+.tox
+*.egg-info
+*.pyc
+.vscode
+.mypy_cache
+node_modules
